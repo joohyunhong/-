@@ -1,9 +1,9 @@
 # wow
 안녕
 
-![apple](http://ojsfile.ohmynews.com/STD_IMG_FILE/2011/0803/IE001334624_STD.jpg)
+![apple](http://www.etoday.co.kr/news/section/newsview.php?idxno=1146854#)
 
 
-[![apple](http://ojsfile.ohmynews.com/STD_IMG_FILE/2011/0803/IE001334624_STD.jpg)](https://youtu.be/vCLHUnylTas)
+[![apple](http://www.etoday.co.kr/news/section/newsview.php?idxno=1146854#)](https://youtu.be/vCLHUnylTas)
 
 
