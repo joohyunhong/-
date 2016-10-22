@@ -1,9 +1,9 @@
 # wow
 안녕
 
-![apple](http://4.bp.blogspot.com/-uMrwwmlv4Bo/VcijtXR6OnI/AAAAAAAACKE/r95aFqLBPAs/s1600/NaverBlog_20150810_220830_03.jpg)
+![apple](http://ojsfile.ohmynews.com/STD_IMG_FILE/2011/0803/IE001334624_STD.jpg)
 
 
-[![apple](http://4.bp.blogspot.com/-uMrwwmlv4Bo/VcijtXR6OnI/AAAAAAAACKE/r95aFqLBPAs/s1600/NaverBlog_20150810_220830_03.jpg)](https://youtu.be/vCLHUnylTas)
+[![apple](http://ojsfile.ohmynews.com/STD_IMG_FILE/2011/0803/IE001334624_STD.jpg)](https://youtu.be/vCLHUnylTas)
 
 
